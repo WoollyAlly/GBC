@@ -1,7 +1,7 @@
 ---
 title: Annalyn Rose
-blurb: "Summarize the story here 
-qweqweqwe qwe qwe qwe qwe qweqweqwe"
+blurb: Summarize the story here 
+qweqweqwe qwe qwe qwe qwe qweqweqwe
 ---
 
 
