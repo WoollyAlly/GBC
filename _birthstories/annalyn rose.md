@@ -1,6 +1,6 @@
 ---
 title: Annalyn Rose
-blurb: Summarize the 
+description: Summarize the 
 story here
 ---
 
