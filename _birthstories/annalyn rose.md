@@ -1,5 +1,6 @@
 ---
 title: Annalyn Rose
+blurb: Summarize the story here
 ---
 
 With my second pregnancy I was lucky enough to have the opportunity to delivery at
