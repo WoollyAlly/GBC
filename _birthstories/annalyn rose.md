@@ -1,7 +1,6 @@
 ---
 title: Annalyn Rose
-description: Summarize the 
-story here
+description: Enter discription
 ---
 
 
