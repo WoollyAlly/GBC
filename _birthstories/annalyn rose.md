@@ -1,6 +1,6 @@
 ---
 title: Annalyn Rose
-description:
+description: '"With my second pregnancy, I was lucky enough to have the opportunity to deliver at home with Hillary Kieser and Gentle Birth Care. Inc. She delivered my first at the hospital in the ABC room of West Suburban Hospital..."'
 ---
 
 
