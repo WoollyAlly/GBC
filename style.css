@@ -3720,11 +3720,11 @@ body:not(.device-touch) .portfolio {
 }
 
 .portfolio-item {
-	float: left;
-	position: relative;
-	width: 25%;
-	height: auto;
-	padding: 0 12px 12px 0;
+	/*float: left;*/
+	/*position: relative;*/
+	/*width: 25%;*/
+	/*height: auto;*/
+	/*padding: 0 12px 12px 0;*/
 }
 
 .portfolio-notitle .portfolio-item,
