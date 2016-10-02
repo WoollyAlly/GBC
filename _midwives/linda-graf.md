@@ -1,7 +1,7 @@
 ---
 title: Linda Graf
 sub_title: 'CNM, APN'
-profile_image_path: /uploads/linda-graf.jpg
+profile_image_path: /uploads/linda-graf-1.jpg
 mini_bio: It is my dream come true to be able to once again follow my passion for serving women with such a stellar group of ‘like-minded’ professionals.
 ---
 
