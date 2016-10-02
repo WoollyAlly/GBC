@@ -8,15 +8,9 @@ mini_bio: 'When I met Hillary after moving to Chicago, I knew I had found an exc
 
 I grew up in Mississippi, and have worked primarily in Alabama and Mississippi before moving to Chicago to pursue my PhD in Nursing. I’m currently a PhD student at UIC as well as working with Gentle Birth Care.
 
-&nbsp;&nbsp;
-
-&nbsp;My first real introduction to birth was when my sister was born at home. My mother didn’t want the rest of us kids to be present for the delivery, but we stayed with my grandmother and Daddy came to get us as soon as Anna Beth was born. I remember being able to crowd into my parent’s room to see the baby, and I was so excited because I finally had a sister.
-
-&nbsp;&nbsp;
+My first real introduction to birth was when my sister was born at home. My mother didn’t want the rest of us kids to be present for the delivery, but we stayed with my grandmother and Daddy came to get us as soon as Anna Beth was born. I remember being able to crowd into my parent’s room to see the baby, and I was so excited because I finally had a sister.&nbsp;&nbsp;
 
 &nbsp;The first birth I witnessed was one of my mothers’ friends; I was eleven and came along to watch the children. As babies often do, this little guy decided to make his entrance at night, so I put the children to sleep and asked if I could watch the birth. The adults let me come in, and I was entirely fascinated. I was very impressed with how calm and skilled the midwife was, and she apparently noticed how intently I was watching everything, as she called me over afterward to show me the placenta. “The tree of life” she called it, and I was amazed. That was the moment I knew exactly what I wanted to do with the rest of my life.
-
-&nbsp;&nbsp;
 
 When I was in my teens I started assisting a local homebirth midwife, and was able to work with her through high school and college. When I started nursing school, I thought I would want to work as a Labor and Delivery nurse, but I found the hospital birth environment wasn’t a good fit for me, and discovered a passion for Pediatric Critical Care. My nursing experience was entirely Pediatric Critical Care, with cross training in Neonatal Intensive Care and Nursery
 
