@@ -1,8 +1,8 @@
 ---
 title: Annie Lowe
-sub_title: CNM (Certified Nurse Midwife)
-profile_image_path:
-mini_bio: Enter a mini bio.
+sub_title: RN
+profile_image_path: /uploads/gbc-headshots-10-min.jpg
+mini_bio:
 ---
 
-Enter your bio here
+
