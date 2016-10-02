@@ -1,6 +1,6 @@
 ---
 title: Nicole Apel
-sub_title: CNM (Certified Nurse Midwife)
+sub_title: 'CNM, APN'
 profile_image_path: /images/gbc nicole apel - cnm-min.jpg
 mini_bio: 'Home is where the heart is, and I cherish being part of a practice that is dedicated to making birth at home an option for so many families. Home is truly a beautiful place to give birth!'
 ---
