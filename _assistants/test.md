@@ -1,6 +1,6 @@
 ---
 title: Aimee Clark
-sub_title: Assistant
+sub_title: 'SNM, RN'
 profile_image_path: '/images/gbc - aimee clark - assistant - rn,snm-min.jpg'
 mini_bio: 'In addition to being an assistant at Gentle Birth Care, I am a nursing student and have been a labor doula and childbirth educator for many years.'
 ---
