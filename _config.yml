@@ -43,7 +43,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "assistants"
+      type: "officeStaff"
     values:
       layout: "assistants-layout"
   -
