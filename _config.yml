@@ -35,13 +35,13 @@ defaults:
       path: ""
       type: "midwives"
     values:
-      layout: "midwife-layout"
+      layout: "staff-layout"
   -
     scope:
       path: ""
       type: "assistants"
     values:
-      layout: "assistants-layout"
+      layout: "staff-layout"
   -
     scope:
       path: ""
