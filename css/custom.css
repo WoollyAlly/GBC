@@ -361,7 +361,8 @@ body{
 
 .midwife-lightbox img{
     float:right;
-    padding-left: 12px;
+    max-width:300px;
+    margin-left:25px;
 }
 
 .midwife-lightbox p{
