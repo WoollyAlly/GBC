@@ -12,23 +12,22 @@ layout: default
 					    <div class="row">
 					        {{ site.collections }}
                         {% for member in site.officeStaff %} 
-						<div class="col-md-6 bottommargin">
-
-							<div class="team team-list clearfix">
-								<div class="team-image">
-									<img src="{{ member.profile_image_path }}" alt="{{ member.title }}">
-								</div>
-								<div class="team-desc">
-									<div class="team-title"><h4>{{member.title}}</h4><span>{{member.sub_title}}</span></div>
-									<div class="team-content">
-										<p>{{member.mini_bio}}</p>
-									</div>
-									<a href="{{member.url}}" data-lightbox="ajax">View more</a>
-								</div>
-							</div>
-
-						</div> 
-                        
+    						<div class="col-md-6 bottommargin">
+    
+    							<div class="team team-list clearfix">
+    								<div class="team-image">
+    									<img src="{{ member.profile_image_path }}" alt="{{ member.title }}">
+    								</div>
+    								<div class="team-desc">
+    									<div class="team-title"><h4>{{member.title}}</h4><span>{{member.sub_title}}</span></div>
+    									<div class="team-content">
+    										<p>{{member.mini_bio}}</p>
+    									</div>
+    									<a href="{{member.url}}" data-lightbox="ajax">View more</a>
+    								</div>
+    							</div>
+    
+    						</div> 
                         {% endfor %}
 
 					</div>
