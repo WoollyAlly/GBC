@@ -6101,7 +6101,7 @@ body:not(.device-touch):not(.device-xs):not(.device-xxs) .product-overlay a {
 	position: relative;
 	background-color: #FFF;
 	width: 800px;
-	margin: 0 auto;
+	margin: 25px auto;
 }
 
 .single-product .product-image,
