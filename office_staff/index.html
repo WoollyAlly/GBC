@@ -15,7 +15,7 @@ layout: default
     
     							<div class="team team-list clearfix">
     								<div class="team-image">
-    									<img src="{{ member.profile_image_path }}" alt="{{ member.title }}">
+    									<a href="{{member.url}}" data-lightbox="ajax"><img src="{{ member.profile_image_path }}" alt="{{ member.title }}"></a>
     								</div>
     								<div class="team-desc">
     									<div class="team-title"><h4>{{member.title}}</h4><span>{{member.sub_title}}</span></div>
