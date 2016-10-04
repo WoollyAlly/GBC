@@ -45,7 +45,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "officeStaff"
+      type: "officestaff"
     values:
       layout: "staff-layout"
   -
