@@ -10,7 +10,8 @@ layout: default
     						<h3>Meet the Assistants</h3>
     					</div>
 					    <div class="row">
-                        {% for assistant in site.assistants %} 
+					    {% assign assistants = site.assistants | sort: "title" %}
+                        {% for assistant in assistants %} 
 						<div class="col-md-6 bottommargin">
 
 							<div class="team team-list clearfix">
