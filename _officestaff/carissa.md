@@ -2,7 +2,7 @@
 title: Carissa Szymanski
 sub_title: Office Manager
 profile_image_path: /uploads/screenshot-20170207-141405.jpg
-mini_bio: Carissa has a passion for women’s health and birth that has been the guiding force of her career for more than 20 years.Enter a mini bio.
+mini_bio: Carissa has a passion for women’s health and birth that has been the guiding force of her career for more than 20 years.
 ---
 
 
