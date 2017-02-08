@@ -9,9 +9,9 @@ layout: default
                         <div class="fancy-title title-border">
     						<h3>Meet the Office Staff</h3>
     					</div>
-					    <div class="row">
 					    {% assign officestaff = site.officestaff | sort: "title" %}
                         {% for member in officestaff %} 
+                        
     						<div class="col-md-6 bottommargin">
     
     							<div class="team team-list clearfix">
@@ -29,8 +29,6 @@ layout: default
     
     						</div> 
                         {% endfor %}
-
-					</div>
 
 					</div>
 				
