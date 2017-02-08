@@ -9,29 +9,37 @@ layout: default
                         <div class="fancy-title title-border">
     						<h3>Meet the Assistants</h3>
     					</div>
-					    <div class="row">
 					    {% assign assistants = site.assistants | sort: "title" %}
-                        {% for assistant in assistants %} 
-						<div class="col-md-6 bottommargin">
-
-							<div class="team team-list clearfix">
-								<div class="team-image">
-										<a href="{{assistant.url}}" data-lightbox="ajax"><img src="{{ assistant.profile_image_path }}" alt="{{ assistant.title }}"></a>
-								</div>
-								<div class="team-desc">
-									<div class="team-title"><h4>{{assistant.title}}</h4><span>{{assistant.sub_title}}</span></div>
-									<div class="team-content">
-										<p>{{assistant.mini_bio}}</p>
-									</div>
-									<a href="{{assistant.url}}" data-lightbox="ajax">View more</a>
-								</div>
-							</div>
-
-						</div> 
+                        {% for assistant in assistants %}
                         
+                            {% assign rowfinder = forloop.index | modulo: 2 %}
+				  
+				  
+        				    {% if rowfinder == 1 %}
+                              <div class="row">
+                            {% endif %}
+    						<div class="col-md-6 bottommargin">
+    
+    							<div class="team team-list clearfix">
+    								<div class="team-image">
+    										<a href="{{assistant.url}}" data-lightbox="ajax"><img src="{{ assistant.profile_image_path }}" alt="{{ assistant.title }}"></a>
+    								</div>
+    								<div class="team-desc">
+    									<div class="team-title"><h4>{{assistant.title}}</h4><span>{{assistant.sub_title}}</span></div>
+    									<div class="team-content">
+    										<p>{{assistant.mini_bio}}</p>
+    									</div>
+    									<a href="{{assistant.url}}" data-lightbox="ajax">View more</a>
+    								</div>
+    							</div>
+    
+    						</div> 
+                        
+        				    {% if rowfinder == 0 or forloop.length == forloop.index %}
+                              </div> 
+                            {% endif %}
                         {% endfor %}
 
-					</div>
 
 					</div>
 				
