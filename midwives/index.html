@@ -9,9 +9,15 @@ layout: default
                         <div class="fancy-title title-border">
     						<h3>Meet the Midwives</h3>
     					</div>
-					    <div class="row">
 					    {% assign midwives = site.midwives | sort: "title" %}
                         {% for midwife in midwives %} 
+                         {% assign rowfinder = forloop.index | modulo: 2 %}
+				  
+				  
+				   {% if rowfinder == 1 %}
+                      <div class="row">
+                    {% endif %}
+                    
 						<div class="col-md-6 bottommargin">
 
 							<div class="team team-list clearfix">
@@ -28,10 +34,12 @@ layout: default
 							</div>
 
 						</div> 
+						
+				   {% if rowfinder == 0 or forloop.length == forloop.index %}
+                      </div> 
+                    {% endif %}
                         
                         {% endfor %}
-
-					</div>
 						<div class=" nobottommargin">
 
 							<!--<div class="heading-block">-->
