@@ -12,6 +12,12 @@ layout: default
 					    {% assign officestaff = site.officestaff | sort: "title" %}
                         {% for member in officestaff %} 
                         
+                            {% assign rowfinder = forloop.index | modulo: 2 %}
+				  
+				  
+        				    {% if rowfinder == 1 %}
+                              <div class="row">
+                            {% endif %}
     						<div class="col-md-6 bottommargin">
     
     							<div class="team team-list clearfix">
@@ -28,6 +34,10 @@ layout: default
     							</div>
     
     						</div> 
+    						
+        				    {% if rowfinder == 0 or forloop.length == forloop.index %}
+                              </div> 
+                            {% endif %}
                         {% endfor %}
 
 					</div>
