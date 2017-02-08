@@ -11,33 +11,33 @@ layout: default
     					</div>
 					    {% assign midwives = site.midwives | sort: "title" %}
                         {% for midwife in midwives %} 
-                         {% assign rowfinder = forloop.index | modulo: 2 %}
+                            {% assign rowfinder = forloop.index | modulo: 2 %}
 				  
 				  
-				   {% if rowfinder == 1 %}
-                      <div class="row">
-                    {% endif %}
+        				    {% if rowfinder == 1 %}
+                              <div class="row">
+                            {% endif %}
                     
-						<div class="col-md-6 bottommargin">
-
-							<div class="team team-list clearfix">
-								<div class="team-image">
-								    <a href="{{midwife.url}}" data-lightbox="ajax"><img src="{{ midwife.profile_image_path }}" alt="{{ midwife.title }}"></a>
-								</div>
-								<div class="team-desc">
-									<div class="team-title"><h4>{{midwife.title}}</h4><span>{{midwife.sub_title}}</span></div>
-									<div class="team-content">
-										<p>{{midwife.mini_bio}}</p>
-									</div>
-									<a href="{{midwife.url}}" data-lightbox="ajax">View more</a>
-								</div>
-							</div>
-
-						</div> 
-						
-				   {% if rowfinder == 0 or forloop.length == forloop.index %}
-                      </div> 
-                    {% endif %}
+    						<div class="col-md-6 bottommargin">
+    
+    							<div class="team team-list clearfix">
+    								<div class="team-image">
+    								    <a href="{{midwife.url}}" data-lightbox="ajax"><img src="{{ midwife.profile_image_path }}" alt="{{ midwife.title }}"></a>
+    								</div>
+    								<div class="team-desc">
+    									<div class="team-title"><h4>{{midwife.title}}</h4><span>{{midwife.sub_title}}</span></div>
+    									<div class="team-content">
+    										<p>{{midwife.mini_bio}}</p>
+    									</div>
+    									<a href="{{midwife.url}}" data-lightbox="ajax">View more</a>
+    								</div>
+    							</div>
+    
+    						</div> 
+    						
+        				    {% if rowfinder == 0 or forloop.length == forloop.index %}
+                              </div> 
+                            {% endif %}
                         
                         {% endfor %}
 						<div class=" nobottommargin">
