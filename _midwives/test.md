@@ -3,13 +3,11 @@ title: Corinne Westing
 sub_title: 'CNM, APN'
 profile_image_path: /uploads/cw-portrait-1.jpg
 mini_bio: >-
-  I became a nurse in order to work as a women's health nurse practitioner, and
-  then fell in love with birth. I first started dreaming of working with Gentle
-  Birth Care after the beautiful home birth of my daughter with Hillary in 2015.
-  Everything about my labor and the birth of my daughter affirmed what I had
-  known from my midwifery work and listening to my clients, and I felt that
-  joining this practice would enable me to become the kind of midwife I always
-  wanted to be.
+  I first started dreaming of working with Gentle Birth Care after the beautiful
+  home birth of my daughter with Hillary in 2015. Everything about my labor and
+  the birth of my daughter affirmed what I had known from my midwifery work and
+  listening to my clients, and I felt that joining this practice would enable me
+  to become the kind of midwife I always wanted to be.
 ---
 
 
