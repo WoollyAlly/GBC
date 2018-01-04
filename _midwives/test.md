@@ -8,8 +8,8 @@ mini_bio: >-
   Birth Care after the beautiful home birth of my daughter with Hillary in 2015.
   Everything about my labor and the birth of my daughter affirmed what I had
   known from my midwifery work and listening to my clients, and I felt that
-  joining this practice would be what would enable me to become the kind of
-  midwife I always wanted to be.
+  joining this practice would enable me to become the kind of midwife I always
+  wanted to be.
 ---
 
 
