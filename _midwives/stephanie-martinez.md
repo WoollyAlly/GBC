@@ -1,6 +1,6 @@
 ---
 title: Stephanie Martinez
-sub_title: 'CNM (Certified Nurse Midwife), IBCLC'
+sub_title: 'CNM, IBCLC'
 profile_image_path:
 mini_bio: "I was called to birth work when my brother's wife gave birth to their first child at home in 2011.\_ After over a decade of grassroots work advocating for reproductive rights and sexual justice for Black, Latinx, and Indigenous youth through venues as diverse as juvenile detention centers, faith-based organizations, shelters, and crisis hotlines, the birth helped me realize that I could truly bring my full skill set and self to birth work"
 ---
