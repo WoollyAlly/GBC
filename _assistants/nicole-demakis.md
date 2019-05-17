@@ -1,7 +1,7 @@
 ---
 title: Nicole Demakis
 sub_title: 'MA, CD(DONA), CLC'
-profile_image_path:
+profile_image_path: /uploads/mcp-gentlebirthcare-21.jpg
 mini_bio: >-
   I began my journey into birth work in 2007, after the birth of my first child.
   I had a planned hospital birth with midwives and felt so empowered that I was
