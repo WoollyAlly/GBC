@@ -2,7 +2,7 @@
 title: Stephanie Martinez
 sub_title: 'CNM, IBCLC'
 profile_image_path: /uploads/mcp-gentlebirthcare-5.jpg
-mini_bio: "I was called to birth work when my brother's wife gave birth to their first child at home in 2011.\_ After over a decade of grassroots work advocating for reproductive rights and sexual justice for Black, Latinx, and Indigenous youth through venues as diverse as juvenile detention centers, faith-based organizations, shelters, and crisis hotlines, the birth helped me realize that I could truly bring my full skill set and self to birth work"
+mini_bio: "I strive to provide emotional, spiritual, and physical support by honoring traditional birthing customs and promoting breastfeeding.\_ I am a fourth generation native life long resident of Chicago's south side, and am committed to providing quality services to all Chicago residents, particularly those living in the south side."
 ---
 
 I was called to birth work when my brother's wife gave birth to their first child at home in 2011.&nbsp; After over a decade of grassroots work advocating for reproductive rights and sexual justice for Black, Latinx, and Indigenous youth through venues as diverse as juvenile detention centers, faith-based organizations, shelters, and crisis hotlines, the birth helped me realize that I could truly bring my full skill set and self to birth work.&nbsp; Nursing and midwifery seemed a logical progression so that I could provide trauma informed, holistic, and culturally sensitive healthcare that uses harm reduction to be inclusive to all people seeking healthier lives.
