@@ -1,7 +1,7 @@
 ---
 title: Chenyi Zheng
 sub_title: 'SNM, RN'
-profile_image_path:
+profile_image_path: /uploads/mcp-gentlebirthcare-19.jpg
 mini_bio: >-
   Chenyi appreciates the midwifery model of care and the difference it can make
   in terms of women's mental and physical well-being
