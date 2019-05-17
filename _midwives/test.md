@@ -5,11 +5,7 @@ profile_image_path: /uploads/cw-portrait-1.jpg
 mini_bio: >-
   For Corinne, working in home birth is a perfect extension of her passion for
   helping women and childbearing people access the full spectrum of
-  patient-centered reproductive health care. By recognizing and promoting the
-  physiology of reproductive health cycles and events, while promoting current
-  evidence-based practices, Corinne works to partner with her clients for an
-  empowering and safe pregnancy and birth, as well as reproductive health across
-  the lifespan.
+  patient-centered reproductive health care.
 ---
 
 Corinne earned her Master of Science in Nursing, with preparation to become a nurse-midwife, from the University of Illinois at Chicago (UIC) in 2012. She completed her B.A. in English, with extensive preparation in Spanish literature, at the University of California at Berkeley, then transitioned to the nursing world through UIC's Graduate Entry Program in 2010. Prior to becoming a midwife, Corinne worked as a Registered Nurse in family planning and has long been devoted to advocacy for reproductive justice and health equity. She joined Gentle Birth Care in 2017, following several years providing full scope midwifery with underserved populations on Chicago's South Side, as well as in a hospitalist role in both a busy teaching hospital and a smaller community hospital on Chicago's West Side.&nbsp;
