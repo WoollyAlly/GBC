@@ -9,7 +9,7 @@ layout: default
                         <div class="fancy-title title-border">
     						<h3>Meet the Midwives</h3>
     					</div>
-					    {% assign midwives = site.midwives | sort: "title" %}
+					    {% assign midwives = site.midwives | sort: "order" %}
                         {% for midwife in midwives %} 
                             {% assign rowfinder = forloop.index | modulo: 2 %}
 				  
