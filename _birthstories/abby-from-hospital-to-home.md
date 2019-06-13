@@ -5,5 +5,6 @@ description: >-
   written. I say that in all seriousness after 2 years of blogging about my
   deepest, darkest secrets. I’ve been staring at it for weeks. Typing,
   backspacing, retyping. It’s been hard because there is so much to say.
+external_link: https://www.thebadassbreastfeeder.com/im-planning-a-homebirth/
 ---
 
