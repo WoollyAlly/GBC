@@ -64,7 +64,11 @@ layout: default
             					<div class="oc-item">
             					    <h3> <a href="{{story.url}}" data-lightbox="ajax">{{story.title}}</a> </h3>
             					    <p>{{story.description}}</p>
-                            		<a href="{{story.url}}" data-lightbox="ajax">Read Story</a>
+            					    {% if story.external_link %}
+                            		    <a href="{{story.external_link}}" target="_blank">Read Story</a>
+                                    {% else%}
+                            		    <a href="{{story.url}}" data-lightbox="ajax">Read Story</a>
+                                    {% endif %}
                             	</div>
                                 
                                 {% endfor %}
