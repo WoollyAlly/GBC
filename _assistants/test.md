@@ -7,6 +7,7 @@ mini_bio: >-
   nonjudgmental. My passion lies in empowering women to make their own informed
   decisions about their pregnancy and birth, and through working with Gentle
   Birth Care I am able to do just that!
+order: 1
 ---
 
 Nicole has always valued care that is client-centered, holistic, and nonjudgmental. Her passion lies in empowering women to make their own informed decisions about their pregnancy and birth, and through working with Gentle Birth Care Nicole is able to do just that\!
