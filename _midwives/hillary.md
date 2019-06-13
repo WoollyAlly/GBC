@@ -3,6 +3,7 @@ title: Hillary Kieser
 sub_title: 'CNM, APN'
 profile_image_path: /images/gbc hillary keiser - cnm-min.jpg
 mini_bio: Hillary started Gentle Birth Care in February of 2009 and carries over 30 years of birth experience.
+order: 1
 ---
 
 
