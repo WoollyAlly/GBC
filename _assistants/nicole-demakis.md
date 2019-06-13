@@ -7,6 +7,7 @@ mini_bio: >-
   I had a planned hospital birth with midwives and felt so empowered that I was
   inspired to help other families. Five months later, I became a certified
   postpartum and labor support doula through DONA.
+order: 3
 ---
 
 Nicole began her journey into birth work in 2007, after the birth of her first child. She had planned a hospital birth with midwives and felt so empowered and inspired to help other families. Five months later, she became a certified postpartum and labor support doula through DONA. In 2011, Nicole had a lovely home birth. This experience further ignited her passion for physiologic birth and patient led care. Within a few months, Nicole was enrolled in midwifery school in Wisconsin. As a student midwife, Nicole apprenticed with a homebirth midwife for two and a half years and had the privilege of attending over 400 births and supporting over 200 families during the postpartum period. She reports it is an honor to be invited into such a tender moment. &nbsp;
