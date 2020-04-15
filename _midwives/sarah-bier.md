@@ -3,12 +3,11 @@ title: Sarah Bier
 sub_title: CNM (Certified Nurse Midwife)
 profile_image_path: /uploads/sarahbier-headshot.jpg
 mini_bio: >-
-  Sarah embarked on a career in nurse midwifery after experiencing the loving
-  care of nurse midwives during her first two pregnancies. During her
-  pregnancies, she noticed that forging strong partnerships with providers and
-  becoming actively informed in health care decision making led Sarah to feel
-  more respected and well cared for in health care environments than in the
-  past.
+  She became a doula and childbirth educator and was graduated from University
+  of Illinois at Chicago's nurse-midwifery program in 2017. She served
+  under-resourced clients as a full scope midwife and provided primary care,
+  mental health support, trans* hormone therapy and sexual health care in the
+  outpatient environment.
 order:
 ---
 
