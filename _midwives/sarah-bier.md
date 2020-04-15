@@ -9,7 +9,7 @@ mini_bio: >-
   home birth practice. A passionate advocate for reproductive justice, body
   autonomy, and client-centered care, Sarah is invested in providing tailored
   care that meets each client's priorities and needs.
-order: '4'
+order:
 ---
 
 Sarah embarked on a career in nurse midwifery after experiencing the loving care of nurse midwives during her first two pregnancies. During her pregnancies, she noticed that forging strong partnerships with providers and becoming actively informed in health care decision making led Sarah to feel more respected and well cared for in health care environments than in the past. She became a doula and childbirth educator and was graduated from University of Illinois at Chicago's nurse-midwifery program in 2017. She served under-resourced clients as a full scope midwife and provided primary care, mental health support, trans\* hormone therapy and sexual health care in the outpatient environment. Sarah is board certified by Postpartum Support International in Perinatal Mental Health and has extensive training in supporting clients to achieve their mental health goals. She has provided prenatal and well-woman care in rural Haiti and to refugees at the US-Mexico border. Sarah is an advocate for evidence-based practice and is excited to contribute to Chicago's premier home birth practice. A passionate advocate for reproductive justice, body autonomy, and client-centered care, Sarah is invested in providing tailored care that meets each client's priorities and needs.&nbsp;
