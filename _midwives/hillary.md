@@ -2,10 +2,11 @@
 title: Hillary Kieser
 sub_title: 'CNM, APN'
 profile_image_path: /images/gbc hillary keiser - cnm-min.jpg
-mini_bio: Hillary started Gentle Birth Care in February of 2009 and carries over 30 years of birth experience.
-order: 1
+mini_bio: >-
+  Hillary started Gentle Birth Care in February of 2009 and carries over 30
+  years of birth experience.
+order:
 ---
-
 
 I began in the birthing business in 1985 when I became a Bradley teacher (AAHCC) in New York after the birth of my second son. My first 2 sons were born in hospitals, with certified nurse midwives. One in a birth center in Denver, and one in a Long Island Hospital.
 
