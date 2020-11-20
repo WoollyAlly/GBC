@@ -4,10 +4,7 @@ sub_title: CNM (Certified Nurse Midwife)
 profile_image_path: /uploads/sarahbier-headshot.jpg
 mini_bio: >-
   She became a doula and childbirth educator and was graduated from University
-  of Illinois at Chicago's nurse-midwifery program in 2017. She served
-  under-resourced clients as a full scope midwife and provided primary care,
-  mental health support, trans* hormone therapy and sexual health care in the
-  outpatient environment.
+  of Illinois at Chicago's nurse-midwifery program in 2017.
 order:
 ---
 
