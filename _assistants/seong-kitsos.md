@@ -1,8 +1,8 @@
 ---
 title: Seong Kitsos
-sub_title:
+sub_title: SPM
 profile_image_path:
-mini_bio:
+mini_bio: Advanced Holistic Doula
 order: 8
 ---
 
