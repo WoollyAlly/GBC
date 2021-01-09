@@ -3,8 +3,8 @@ title: Seong Kitsos
 sub_title: 'SPM, CD(DONA)'
 profile_image_path: /uploads/resized-20201102-155529.jpg
 mini_bio: >-
-  I am passionate about home birth and helping spread the word that it is a safe
-  option for low risk pregnancy.
+  Seong is a Matrona and DONA trained doula, passionate about recognizing the
+  sacredness of pregnancy, birth, and postpartum.
 order: 8
 ---
 
