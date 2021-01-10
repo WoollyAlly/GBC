@@ -1,6 +1,6 @@
 ---
 title: Kathleen Britten
-sub_title: 'RN, SNM'
+sub_title: 'Staff Manager, RN, SNM'
 profile_image_path: /uploads/mcp-gentlebirthcare-14-copy.jpg
 mini_bio: >-
   Kathleen is a Registered Nurse from the University of Illinois at Chicago,
