@@ -1,6 +1,6 @@
 ---
 title: Seong Kitsos
-sub_title: 'SPM, CD(DONA)'
+sub_title: 'SPM, CD(Matrona)'
 profile_image_path: /uploads/resized-20201102-155529.jpg
 mini_bio: >-
   Seong is a Matrona and DONA trained doula, passionate about recognizing the
