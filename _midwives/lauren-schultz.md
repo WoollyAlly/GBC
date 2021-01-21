@@ -15,5 +15,3 @@ Childbirth has always had a magnetic draw for me, especially the privilege of gu
 I became a registered nurse in 2013 and started working in labor and delivery, while also attending UIC for my MSN (Master of Science in Nursing) in midwifery. I worked as an L&D nurse at two different teaching hospitals in Chicago alongside some excellent OBs and midwives. My experience there confirmed my desire to become a midwife as well as educated me about different kinds of labor management, from high-risk to low-intervention. During that time I welcomed my two babies at home with a certified nurse midwife, my daughter in 2013 and my son in 2017.
 
 I am thrilled to be working in homebirth as a CNM. I seek to support physiological birth and provide care that reaches individual families needs. Homebirth lends itself especially well to patient-centered care and I couldn’t be happier to be starting my midwife career without the constructs often found in hospital settings. I firmly believe in body autonomy, and seek to partner with families while providing safe and evidenced-based care in birth and throughout the life-cycle.
-
-Enter your bio here
