@@ -3,7 +3,7 @@ title: Sarah Bier
 sub_title: CNM (Certified Nurse Midwife)
 profile_image_path: /uploads/sarahbier-headshot.jpg
 mini_bio: >-
-  She became a doula and childbirth educator and was graduated from University
+  Sarah became a doula and childbirth educator and was graduated from University
   of Illinois at Chicago's nurse-midwifery program in 2017.
 order:
 ---
