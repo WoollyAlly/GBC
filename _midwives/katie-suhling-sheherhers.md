@@ -1,5 +1,5 @@
 ---
-title: Katie Suhling (she/her/hers)
+title: Katie Suhling
 sub_title: CNM, WHNP
 profile_image_path: /uploads/katie-photo.jpeg
 mini_bio: >-
