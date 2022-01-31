@@ -3,7 +3,7 @@ title: Katie Suhling
 sub_title: CNM, WHNP
 profile_image_path: /uploads/katie-photo.jpeg
 mini_bio: >-
-  atie joined Gentle Birth Care shortly after graduating and has quickly found
+  Katie joined Gentle Birth Care shortly after graduating and has quickly found
   that home birth is where she is best able to develop rich relationships with
   her clients.
 order: 4
