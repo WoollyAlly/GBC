@@ -1,0 +1,10 @@
+---
+title: 'Juanita Montoya '
+sub_title: SPM
+profile_image_path: /uploads/received-1516250708552542-2.jpeg
+mini_bio: Enter a mini bio.
+order: 6
+---
+Juanita is a mother to four children all born with the support of<br>midwives, with the last two being home births. Her work in the birth world began during&nbsp; high school, as a translator for Spanish non-English speaking families, as they gave birth within a medical system completely new to them. Once back home, Juanita's mother cared for many of these families by providing traditional Cuarentena care, and by default Juanita&nbsp; was her helper. This taught her the importance of&nbsp;<br>embracing and upholding traditional practices around the childbearing years. After high school, Juanita left home for school and stopped attending births. She didn’t revisit to the birth world again until the birth of her son in 2008, and graduation in 2009 with a degree in Cultural Anthropology. These two events back-to-back exposed Juanita to the shortcomings, and at times abuse, of the medical system. As she continued to grow her family over the next few years, she also slowly started attending births again, and this time she was doing a lot more than just translating.&nbsp; Juanita came back full-time as a birth worker in 2016, and in 2021 started midwifery school.&nbsp;
+
+Juanita loves learning and practicing continuous<br>education;&nbsp; some of her current certifications include Spinning Babies Parent Educator, Spinning Babies Aware Practitioner, and licensed massage therapist.<br>Juanita's work in birthwork is guided by her passion and commitment to reproductive justice and equity,&nbsp; all aimed at helping to close the current birthing disparity gaps found among marginalized communities.<br>When working with families, Juanita provides evidence base education and time proven practices to help them understand, embrace/prepare and most importantly enjoy their own birthing journeys.
