@@ -1,7 +1,7 @@
 ---
 title: Vanessa Stephens-Moschiano
 sub_title: Staff Manager, SPM, EMT
-profile_image_path: /uploads/img-4661.jpeg
+profile_image_path: /uploads/img-6469.jpg
 mini_bio: >-
   After attending births in all settings (hospitals, birth centers, and home),
   Vanessa realized how truly special homebirth midwifery is, and started her
