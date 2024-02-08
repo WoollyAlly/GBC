@@ -1,6 +1,6 @@
 ---
 title: Hannah Flex
-sub_title: CNM (Certified Nurse Midwife)
+sub_title: 'CNM '
 profile_image_path: /uploads/hf.jpg
 mini_bio: "My philosophy of care is centered around supporting my clients holistically. I value nutrition and movement as top priorities for good health and take a pro-metalolic approach to supporting the body before, during, and after pregnancy.\_"
 order: 1
