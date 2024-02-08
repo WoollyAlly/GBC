@@ -3,7 +3,7 @@ title: Hannah Flex
 sub_title: 'CNM '
 profile_image_path: /uploads/hf.jpg
 mini_bio: "My philosophy of care is centered around supporting my clients holistically. I value nutrition and movement as top priorities for good health and take a pro-metalolic approach to supporting the body before, during, and after pregnancy.\_"
-order: 1
+order: 5
 ---
 Women’s health and pregnancy care has long been my passion. In high school, I was poised for premed with intentions to become an OBGYN. Thankfully though, I witnessed my first home birth when I was 17, just in time to switch majors to nursing when I quickly learned that the midwifery model of care (and specifically home birth!) aligned far better with my beliefs on the kind of care women deserve in pregnancy and birth.&nbsp;
 
