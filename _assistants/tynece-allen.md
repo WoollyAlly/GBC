@@ -1,7 +1,7 @@
 ---
 title: 'Tynece Allen '
 sub_title: SPM
-profile_image_path: /uploads/ta.jpg
+profile_image_path: /uploads/img-7824-1.jpg
 mini_bio: >-
   Tynece has been an active birth worker and Placenta Encapsulation Specialist
   since 2018, servicing Chicago and the surrounding areas. She is currently a
