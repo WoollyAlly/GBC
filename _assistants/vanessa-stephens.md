@@ -1,12 +1,12 @@
 ---
 title: Vanessa Stephens-Moschiano
 sub_title: Staff Manager, SPM, EMT
-profile_image_path: /uploads/img-6469.jpg
+profile_image_path: /uploads/img-7813.jpg
 mini_bio: >-
   After attending births in all settings (hospitals, birth centers, and home),
   Vanessa realized how truly special homebirth midwifery is, and started her
   journey to become a Certified Professional Midwife in 2018.
-order: 9
+order: 3
 ---
 Vanessa was born at home, and grew up in a community where home birth was the norm. Her passion for birth stems as far back as she can remember, and she became a DONA trained doula at the age of 16. After attending births in all settings (hospitals, birth centers, and home), Vanessa realized how truly special homebirth midwifery is, and started her journey to become a Certified Professional Midwife in 2018. She is a firm believer in the holistic approach to evidenced-based care that midwifery offers. Vanessa also works as an Emergency Medical Technician and finds it incredibly rewarding to be involved in the wide range of care provided.
 
