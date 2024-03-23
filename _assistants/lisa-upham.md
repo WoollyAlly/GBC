@@ -1,11 +1,11 @@
 ---
 title: Lisa Upham
 sub_title: MS, SPM
-profile_image_path: /images/gbc lisa upham - assistant-min.jpg
+profile_image_path: /uploads/img-7814.jpg
 mini_bio: >-
   Lisa is a Bradley Method instructor and DONA approved Birth Doula Trainer who
   has been with Gentle Birth Care from the start!
-order: 2
+order: 1
 ---
 Nearly 12 years ago, Lisa was pregnant with her first child and noted feeling clueless about how that child would make his way out. But then, fortunately, she took Bradley Method childbirth classes, switched from a hospital obstetrician to a home birth midwife, hired a doula, and had a fantastic birth–despite it taking 51 hours! It could not have gone better than it did– but it would not have worked that way had Lisa, and the people she was surrounded by, not had faith in her body and trust in the birthing process.&nbsp;&nbsp;
 
