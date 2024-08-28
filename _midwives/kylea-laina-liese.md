@@ -1,7 +1,7 @@
 ---
 title: Kylea Laina Liese
 sub_title: PhD, CNM
-profile_image_path: /uploads/IMG_0390.jpg
+profile_image_path: /uploads/img-7827-1.jpg
 mini_bio: >-
   I joined GBC during the pandemic of 2020 and fell in love with home birth. As
   Hillary likes to say, “It’s just so much fun.” I still work as a medical
