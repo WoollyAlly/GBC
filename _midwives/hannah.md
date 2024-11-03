@@ -1,6 +1,6 @@
 ---
 title: Hannah Flex
-sub_title: 'CNM '
+sub_title: CNM, APRN
 profile_image_path: /uploads/img-7815.jpg
 mini_bio: "My philosophy of care is centered around supporting my clients holistically. I value nutrition and movement as top priorities for good health and take a pro-metalolic approach to supporting the body before, during, and after pregnancy.\_"
 order: 5
